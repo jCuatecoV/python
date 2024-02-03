@@ -1,1 +1,1 @@
-<h1>Este espacio es para trabajar posteriormente con JAVA</h1>
+<h1>Este espacio es para trabajar posteriormente con Python</h1>
